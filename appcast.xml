@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mirror</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Mon, 10 Aug 2026 22:53:16 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/x0c/Mirror-updates/releases/download/v1.0.3/Mirror-1.0.3.zip" length="4047755" type="application/octet-stream" sparkle:edSignature="qE+/4prjMkW3DtccBQGY08Q35+J7lWLkig/e97n9y7PV4CdqOXzz1nzbIU6jk3nUqhSiCNZxVzs73MfD4XNhBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: hrA6DknpZvos7sHC2B/rrPXDFiuLh26PKLzn4VxyoJ0u7r0qN6OcPeo5lLvJyy9YNtH/HY04ZRP6TYGAPUmKBw==
+length: 1117
+-->
