@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Mirror</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Sat, 15 Aug 2026 14:52:22 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/x0c/Mirror-updates/releases/download/v1.0.6/Mirror-1.0.6.zip" length="4056432" type="application/octet-stream" sparkle:edSignature="NgxxGplTfPHoFirMeTFRqDl9BgjNA+fFgao8quQ3/lq2kfJPj+myBb6UT03rCtM7KjIboOI7KOtEYB7CwDO+Bg=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Sat, 15 Aug 2026 14:11:28 +0800</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -35,6 +44,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: iLq2mu8qiE4/pTSRXOp2Ho1X6s7/9+eHi9ON0kG+5+JhLN42TDtmlmalmc75hTaPngzSfcklqkmBOyCawsHzDA==
-length: 2467
+edSignature: MVgq/ydHj5ieK2lw8BbmP+Pn1SW8UpfYGZ+JNbLyegKIivr2sJJxWod1diK4O+AHt/2Q14p7VoXPZAoT/+kFDg==
+length: 3146
 -->
